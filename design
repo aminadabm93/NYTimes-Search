@@ -1,0 +1,21 @@
+##initial thoughts
+
+we will use bootstrap to create the search form and populate top-articles  
+
+##Design
+
+<header> New York Times Search </header>
+
+//search parameters form 
+    - search term
+    - number of record 
+    - start year (optional)
+    - end year  (optional)
+buttons: search, clear results 
+
+
+//Top articles
+//populate field w/ article info 
+
+
+//footer: made with hate muahahaha
